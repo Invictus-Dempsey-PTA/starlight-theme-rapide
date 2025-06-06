@@ -1,4 +1,5 @@
 import starlight from '@astrojs/starlight'
+import cloudflare from '@astrojs/cloudflare'; // Import the adapter
 import { defineConfig } from 'astro/config'
 import starlightThemeRapide from 'starlight-theme-rapide'
 
